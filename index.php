@@ -1,6 +1,4 @@
-<?php phpinfo(); ?>
-<?php 
-echo '
+
 <html>
 
 	<head>
@@ -30,5 +28,3 @@ echo '
 		<p id="changeThis">hello1</p>
 	</body>
 </html>
-';
-?>
